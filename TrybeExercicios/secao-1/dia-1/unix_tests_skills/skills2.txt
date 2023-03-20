@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+sofa
+cadeira
+mesa
+tabua
+comida

@@ -1,0 +1,16 @@
+mundo
+frases
+terra
+computador
+tela
+mouse
+teclado
+caneca
+quadro
+parede
+papel
+cortina
+janela
+chao
+cama
+armario
